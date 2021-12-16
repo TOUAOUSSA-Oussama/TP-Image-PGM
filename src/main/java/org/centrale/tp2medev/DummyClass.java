@@ -10,5 +10,8 @@ package org.centrale.tp2medev;
  * @author lmalix
  */
 public class DummyClass {
-    
+    public void static DummyClass{
+        
+    } 
+          
 }
